@@ -4,7 +4,7 @@ Understanding the Trek GPS Update Process: A Complete Walkthrough
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: Login.jpg
+.. image:: update.jfif
    :alt: My Project Logo
    :width: 350px
    :align: center
